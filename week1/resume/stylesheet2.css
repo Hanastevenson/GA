@@ -1,0 +1,38 @@
+body{
+	margin:0 auto;
+	padding:0px;
+	background-color: #D0CFD0;
+}
+
+h1{
+	color: #FBFBFB;
+	font-family: 'Din';
+	font-size:200px;
+	text-align: center;
+}
+nav {
+
+	font-family: 'DinCond-Medium';
+	font-size: 15px;
+	width: 50%
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+ul{
+	list-style: none;
+}
+
+ul li{
+	padding: 5px 30px;
+	margin-right: 150px;
+	display:inline;
+}
+
+ a{
+	color: #777777;
+	text-decoration: none;
+}
+ div images{
+ 
+ }
