@@ -1,4 +1,34 @@
 body{
-font-family: 'Din';
-
+	width:960px;
+	margin:0 auto;
+	padding: 20px 0;
+	font-family: 'Din', sans-serif;
 }
+h1{
+	color: #FCF65F;
+	font-size: 30px;
+	font-weight: 400;
+}
+header {
+	background-color: #000;
+}
+nav a{
+	text-decoration: none;
+	color: #FFF;
+	padding-right: 20px;
+}
+hr{
+	color:#FCF65F;
+}
+.banner{
+	background-color: #C6C6C6;
+}
+.main-content{
+	background-image: url('images/coworking.jpg');
+}
+.main-content-btn{
+	display: block;
+	padding:10px 30px;
+	text-align:center;
+	background-color: #FCF65F;
+} 
