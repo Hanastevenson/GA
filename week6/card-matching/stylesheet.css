@@ -1,0 +1,56 @@
+*{
+	box-sizing: border-box;
+}
+
+h1{
+		font-family: 'Arial' san-serif;
+		font-size:40px;
+		text-align: center;
+		padding-top:15px;
+}
+
+.game{
+		border:1px;
+		border-style:solid;
+		height:200px;
+		width:406px;
+		border-radius: 7px;
+		margin-left:auto;
+		margin-right:auto;
+		padding:40px;
+
+}
+
+#gamecards{
+height;
+}
+
+.card{
+	height:96px;
+	width: 71px;
+	float:left;
+	margin:5px;
+	background-image: url("images/back-of-card.png");
+
+
+}
+.king.selected{
+	
+	background-image: url("images/king.png");
+
+}
+
+#game-control-buttons{
+text-align:center;
+clear: both;
+padding:5px;
+margin:center;
+}
+
+.start{
+
+}
+
+.reset{
+
+}
