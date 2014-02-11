@@ -1,0 +1,47 @@
+.page-wrap{
+	width:500px;
+	margin:0 auto;
+	color:#fff;
+	background:hotpink;
+}
+
+header, .main-content, aside, footer{
+	height:200px;
+	background-color:red;
+}
+
+.main-content{
+	float:left;
+	width:50%;
+	background-color:blue;
+	
+}
+
+aside{
+	float:left;
+	height:300px;
+	width:50%;
+	background:green;
+	
+}
+
+section{
+	width:10%;
+	background-color:orange;
+	float:left;
+	height:150px;
+	width: 20%;
+}
+
+footer{ 
+clear: both;
+}
+
+.clearfix:before, .clearfix:after{
+	content:"";
+	display:table;
+}
+
+.clearfix:after {
+	clear:both;
+}

@@ -1,0 +1,38 @@
+/* {
+box-sizing: border-box}
+*/
+
+h1{
+  font-family:'Arial' sans serif;
+  font-size: 30 px;
+  text-align:center;
+  border-style:solid;
+  padding:20px;
+}
+
+.grid50, .grid25, .grid30{
+  background-color: #efefef;
+}
+
+.grid50{
+  width: 45%;
+  float:left;
+  padding:1% 2.5%;
+  color: red;
+}
+
+.grid25{
+  width:20%;
+  float:left;
+  padding:1% 2.5%;
+
+}
+.grid30{
+  border-style:solid;
+  margin: 2.5%;
+  width:24%;
+  float:left;
+  padding:1% 1.5%;
+}
+
+

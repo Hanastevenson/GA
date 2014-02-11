@@ -1,0 +1,22 @@
+body{
+	width:750px;
+	font-family: 'Arial' sans-serif;
+	color: red;
+}
+p{
+	width:230px;
+	color:black;
+	float:left;
+	background-color:#efefef;
+	padding:5px;
+	margin:5px;
+}
+.maincontent{
+	width:480px;
+	height:128px;
+	padding: 5px;
+
+}
+.clear{
+	clear:left;
+}
